@@ -1,0 +1,153 @@
+body {
+  color: #40514E;
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  font-weight: normal;
+}
+
+.top_container {
+  background-color: #d7f0f0;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {
+  margin: 100px auto 0px auto;
+}
+
+h1 {
+  color: #66bfbf;
+  font-family: "Sacramento", cursive;
+  font-size: 8rem;
+  margin: 50px auto 0px auto;
+}
+
+h2 {
+  
+  color: #66bfbf;
+  font-family: "Montserrat", sans-serif;
+  font-weight: normal;
+  font-size: 4rem;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+}
+
+hr {
+  border-style: none;
+  border-top: 7px dotted#F2C6A0;
+  width: 5%;
+  margin: 80px auto 80px auto;
+}
+
+.top_cloud {
+  position: absolute;
+  top: 100px;
+  right: 400px;
+}
+
+.bottom_cloud {
+  position: absolute;
+  left: 400px;
+  bottom: 350px;
+}
+
+.mountain {
+  width: 40%;
+}
+
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 3;
+}
+
+.amine {
+  width: 15%;
+  max-width: 100%;
+}
+
+
+
+.code {
+  width: 25%;
+  background-color: #fcf8ec;
+  border-radius: 50%;
+  margin-right: 30px;
+  float: left;
+}
+
+.chill {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  background-color: #66BFBF;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+  padding: 16px 31px;
+  text-decoration: none;
+  border-radius: 42px;
+  margin: 30px auto 30px auto;
+}
+
+.btn:hover {
+  background-color: #19bbbb;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.rights {
+  color: #EAF6F6;
+  font-size: 0.85rem;
+}
+
+.social {
+  position: relative;
+  bottom: 10px;
+  padding: 0px 50px 0 50px;
+  width: 2%;
+}
+
+.facebook {
+  filter: invert(57%) sepia(85%) saturate(4651%) hue-rotate(152deg) brightness(91%) contrast(87%);
+}
+
+.facebook:hover {
+  filter: invert(100%);
+}
+
+.instagram {
+  filter: invert(57%) sepia(85%) saturate(4651%) hue-rotate(152deg) brightness(91%) contrast(87%);
+}
+
+.instagram:hover {
+  filter: invert(100%);
+}
+
+.art {
+  filter: invert(57%) sepia(85%) saturate(4651%) hue-rotate(152deg) brightness(91%) contrast(87%);
+}
+
+.art:hover {
+  filter: invert(100%);
+}
+
+.footer-link {
+  color: #11999e;
+}
